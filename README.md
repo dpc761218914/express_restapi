@@ -16,7 +16,7 @@ Postman （restful测试工具，下载地址和教程 https://my.oschina.net/u/
 ###3、插入用户
 ![Image text](https://github.com/dpc761218914/express_restapi/raw/master/public/images/post.png)
 
-![Image text](https://github.com/dpc761218914/express_restapi/raw/master/public/images/post1.png)
+![Image text](https://github.com/dpc761218914/express_restapi/raw/master/public/images/post2.png)
 
 ###4、修改用户
 ![Image text](https://github.com/dpc761218914/express_restapi/raw/master/public/images/put.png)
